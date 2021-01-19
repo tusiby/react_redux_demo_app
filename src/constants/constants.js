@@ -1,0 +1,5 @@
+export const constants = {
+    ADD_WORD_SUCCESS: 'ADD_WORD_SUCCESS',
+    REMOVE_WORD_SUCCESS: 'REMOVE_WORD_SUCCESS'
+  }
+  

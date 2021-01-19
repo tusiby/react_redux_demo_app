@@ -1,0 +1,9 @@
+.footer {
+  background: green;
+}
+@media only screen and (max-width: 400px) {
+  .footer {
+    opacity: 0.3;
+    background: pink;
+  }
+}
